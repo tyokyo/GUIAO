@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Apr 28 10:14:17 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=GuiAO.jar
+manifest.mergeall=true
+manifest.mainclass=frame.UiApplication
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
